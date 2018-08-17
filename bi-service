@@ -1,0 +1,4 @@
+#!/bin/sh
+
+#when in $PATH, allows to access local project's bi-service binary through `bi-service` command
+./node_modules/.bin/bi-service $@
