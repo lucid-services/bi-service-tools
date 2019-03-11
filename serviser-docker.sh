@@ -14,5 +14,5 @@ docker-compose run -v $(pwd):/app -v /app/node_modules --rm --name $COMPOSE_PROJ
 
 exit_code=$?
 
-docker-compose down
+docker-compose down -v
 exit $exit_code

@@ -1,2 +1,2 @@
-# bi-service-tools
-bi-service shell utilities
+# serviser-tools
+serviser shell utilities
